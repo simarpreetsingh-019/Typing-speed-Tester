@@ -4,3 +4,5 @@ You can check and test your typing speed using this program.
 
 
 <img align="center" alt="GIF" height=350 width=750 src="https://media.giphy.com/media/r35KHGVlX6iFKRZbu4/giphy.gif" />
+
+#### Reference : Instagram's IGTV video and github.
